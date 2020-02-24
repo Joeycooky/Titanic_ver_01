@@ -34,5 +34,22 @@ jupyter notebook Titanic_ver_01.ipynb
 
 This will open the iPython Notebook software and project file in your browser.
 
+## Data
+
+Training dataset has 891 entries.
+Testing dataset has 418 entries.
+
+The original features are:
+-  Survived: 0 = No, 1 = Yes
+-  Pclass: Ticket class 1 = 1st, 2 = 2nd, 3 = 3rd
+-  Sex: Male or Female
+-  Age: Age in years
+-  SibSp: Number of siblings/spouses abroad the Titanic
+-  Parch: Number of parents/children abroad the Titanic
+-  Ticket: Ticket Number
+-  Fare: Passenger fare in pounds
+-  Cabin: Cabin number
+-  Embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
 ## Notes
 This notebook is solely for self learning purpose.
