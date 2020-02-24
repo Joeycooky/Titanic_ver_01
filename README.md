@@ -1,5 +1,5 @@
 # Kaggle: Titanic - EDM and Feature Engineering v. 01
-This is a jupyter notebook that does exploratory data analysis, feature engineering and tries to predict whether the passengers in the un-labeled testing set managed to survive the shipwreck or not.
+This is a jupyter notebook that does exploratory data analysis, feature engineering and tries to predict whether the passengers in the un-labeled testing set managed to survive the shipwreck or not in [Kaggle's Titanic Competition](https://www.kaggle.com/c/titanic/).
 
 ## Install
 This project requires **Python 3.x** and the following Python libraries installed:
@@ -18,7 +18,6 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 - `Titanic_ver_01.html`: HTML format of the notebook for viewing in browser
 - `train.csv`: The labeled training dataset
 - `test.csv`: The un-labeled testing dataset
-- `test_census.csv`: The test dataset to evaluate the learning algorithms
 
 ## Run
 
